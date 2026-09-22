@@ -4,7 +4,7 @@ Site fictício desenvolvido como peça de portfólio para o nicho de **serviços
 (escritórios de advocacia, clínicas, consultórios e outros prestadores de serviço que precisam
 de transmitir confiança e credibilidade online).
 
-🔗 **Demo ao vivo:** _[(adicionar link do GitHub Pages depois do deploy)](https://teca09.github.io/site-servicos-institucionais/)_
+🔗 **Demo ao vivo:** _[(Site institucional — Pedro & Luzia Advogados)](https://teca09.github.io/site-servicos-institucionais/)_
 
 ## Sobre o projeto
 
